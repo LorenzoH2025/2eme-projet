@@ -1,0 +1,35 @@
+.city {
+    background-color: rgb(71, 249, 255);
+    color: rgba(90, 172, 43, 0.658);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .character{
+    background-color: rgb(247, 247, 247);
+    color: rgba(226, 4, 4, 0.658);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+
+  }
+
+  .character h2 {
+     color: darkorange;
+
+  }
+
+  .book{
+    background-color: rgb(43, 56, 56);
+    color: rgba(154, 247, 101, 0.658);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
+  .book h2 {
+      color: crimson;
+
+  }
+
+  
